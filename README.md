@@ -1,6 +1,6 @@
 # Jogo da velha
 
-<img src="jogo.png" alt="exemplo imagem">
+<img src="jp..png" alt="jogo">
 
 > jogo da velha desenvolvido no curso b7web tecnologias utilizadas HTML CSS JAVASCIPT
 
