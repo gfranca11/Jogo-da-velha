@@ -1,9 +1,40 @@
-# Jogo da velha
-> jogo da velha desenvolvido no curso b7web tecnologias utilizadas HTML CSS JAVASCIPT
-<img src="https://github.com/gfranca11/Jogo-da-velha/blob/main/jogo.PNG" alt="jogo">
+<h1 align="center">
+     📰
+JOGO DA VELHA
 
-### Tecnologias utilizadas
+</h1>
 
-- [x] HTML
-- [x] CSS
-- [x] JAVASCRIPT
+<h5 align="center">
+  JOGO DA VELHA FEITO COM JAVASCRIPT HTML CSS
+  </h5>
+
+## 🖥 Antevisão 
+<img src="https://github.com/gfranca11/Jogo-da-velha/blob/main/jogo.PNG">
+ 
+ 📌 Ajustes e melhorias
+ 
+ - [ ] COLOCCAR UMA TERCEIRA OPÇAO PARA JOGO
+ 
+
+ 
+ 
+ ## 🧐 Gostou ?
+ 
+ > Clone o repositório e de sua estrelinha ;]
+   
+        $ git https://github.com/gfranca11/Jogo-da-velha
+        $ cd Jogo-da-velha
+        
+ 
+ 
+## 💻 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+ * Visual Studio Code (Editor de código);
+
+* HTML;
+
+* CSS;
+
+
