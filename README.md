@@ -22,7 +22,7 @@ JOGO DA VELHA
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ git https://github.com/gfranca11/Jogo-da-velha
+        $ git clone https://github.com/gfranca11/Jogo-da-velha
         $ cd Jogo-da-velha
         
  
